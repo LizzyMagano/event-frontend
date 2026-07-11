@@ -1,0 +1,11 @@
+{
+  "name": "event-frontend",
+  "version": "1.0.0",
+  "description": "Simple frontend without Vite",
+  "scripts": {
+    "start": "serve public"
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
